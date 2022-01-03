@@ -233,7 +233,7 @@ function buildAndShowMenuItemsHTML (categoryMenuItems) {
                                    menuItemHtml);
           insertHtml("#main-content", menuItemsViewHtml);
         },
-        false);
+        false); 
     },
     false);
 }
